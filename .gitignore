@@ -8,3 +8,5 @@ tests/*.t.err
 # following would be shown as untracked.
 repos/
 revert-info
+
+.DS_Store
